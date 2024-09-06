@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Music_App
 >>>>>>> 6ad9df9bb4eff8ad84e4046e64edb2f1f506deaf
+=======
+# Music_App
+This is my local README file with changes.
+This is some additional information from the remote.
+>>>>>>> d292d17f44b646e0d60af8f06f7b6a55b4e6e327
