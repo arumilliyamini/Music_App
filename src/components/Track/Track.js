@@ -1,7 +1,7 @@
 import React from "react";
 import "./Track.css"
 
-class SearchBar extends React.Component{
+class Track extends React.Component{
     constructor(props){
         super(props);
 
