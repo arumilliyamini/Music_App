@@ -56,4 +56,4 @@ class Track extends React.Component{
     }
 }
 
-export default SearchBar;
+export default Track;

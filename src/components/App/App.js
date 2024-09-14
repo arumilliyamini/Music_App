@@ -1,10 +1,11 @@
 import React from 'react'; // Import React
-import logo from './logo.svg'// Importing a logo file, though this might not be necessary if you aren't using it
+import logo from './logo.svg';// Importing a logo file, though this might not be necessary if you aren't using it
 import './App.css'; // Importing the App CSS styles
 import Playlist from "../Playlist/Playlist"; // Playlist component
-import SearchBar from "../SearchBar/SearchBar"; // SearchBar component
+import SearchBar from "../Searchbar/SearchBar"; // SearchBar component
 import SearchResults from "../SearchResults/SearchResults"; // SearchResults component
-import Spotify from "../util/Spotify"; // Spotify API utility
+import Spotify from '../util/Spotify';
+ // Spotify API utility
 
 class App extends React.Component {
   constructor(props) {
@@ -89,7 +90,6 @@ class App extends React.Component {
               onRemove={this.removeTrack}
               onSave={this.savePlaylist}
             />
-            <logo></logo>
           </div>
         </div>
       </div>
